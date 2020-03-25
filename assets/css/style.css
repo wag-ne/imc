@@ -86,3 +86,11 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.error {
+  background-color: red;
+}
+
+.success {
+  background-color: green;
+}
